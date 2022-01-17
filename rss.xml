@@ -12,7 +12,7 @@
   <description>
 &lt;span&gt;Gloria en lo alto&lt;/span&gt;
 
-&lt;span&gt;&lt;span lang="" about="https://edysmp.github.io/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;bloodlinenic&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="https://edysmp.github.io/linajesanto/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;bloodlinenic&lt;/span&gt;&lt;/span&gt;
 
 &lt;span&gt;Sun, 16/01/2022 - 21:52&lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--50-50"&gt;
@@ -45,7 +45,7 @@
       
   &lt;div class="field field--name-field-artista field--type-entity-reference field--label-inline clearfix"&gt;
     &lt;div class="field__label"&gt;Artista&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="https://edysmp.github.io/taxonomy/term/24" hreflang="es"&gt;Christine D'Clario&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://edysmp.github.io/linajesanto/taxonomy/term/24" hreflang="es"&gt;Christine D'Clario&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
     &lt;/div&gt;
@@ -215,7 +215,7 @@ Grande es&lt;/p&gt;&lt;/div&gt;
       &lt;div class="block__content"&gt;
       
       &lt;div class="field field--name-field-canciones field--type-entity-reference field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-4a50cbfa4313e8b626118406f19ec4b5840c83da35e3bdf46cc0e2d6e91f6a77"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-c005a3158c303ee6298fbc78562b8f97ac45b2e6d9c1c451b89ff4a119e94f49"&gt;
   
     
       
@@ -235,7 +235,7 @@ Grande es&lt;/p&gt;&lt;/div&gt;
     &lt;tbody&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;1          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--5" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/christine-dclario/gloria-en-lo-alto" hreflang="es"&gt;Gloria en lo alto&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--5" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/christine-dclario/gloria-en-lo-alto" hreflang="es"&gt;Gloria en lo alto&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--4" class="views-field views-field-field-tipo"&gt;Lenta          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--2" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--2" class="views-field views-field-field-tono"&gt;D#          &lt;/td&gt;
@@ -244,7 +244,7 @@ Grande es&lt;/p&gt;&lt;/div&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;2          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--5" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/miel-san-marcos/increible" hreflang="es"&gt;Increíble&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--5" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/miel-san-marcos/increible" hreflang="es"&gt;Increíble&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--4" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--2" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--2" class="views-field views-field-field-tono"&gt;C          &lt;/td&gt;
@@ -253,7 +253,7 @@ Grande es&lt;/p&gt;&lt;/div&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;3          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--5" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/juan-carlos-alvarado/le-llaman-guerrero" hreflang="es"&gt;Le llaman guerrero&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--5" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/juan-carlos-alvarado/le-llaman-guerrero" hreflang="es"&gt;Le llaman guerrero&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--4" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--2" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--2" class="views-field views-field-field-tono"&gt;Em          &lt;/td&gt;
@@ -262,7 +262,7 @@ Grande es&lt;/p&gt;&lt;/div&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;4          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--5" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/art-aguilera/hay-libertad" hreflang="es"&gt;Hay libertad&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--5" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/art-aguilera/hay-libertad" hreflang="es"&gt;Hay libertad&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--4" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--2" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--2" class="views-field views-field-field-tono"&gt;Dm          &lt;/td&gt;
@@ -271,7 +271,7 @@ Grande es&lt;/p&gt;&lt;/div&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;5          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--5" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/miel-san-marcos/rey-vencedor-fiesta-viene-ya" hreflang="es"&gt;Rey Vencedor, Fiesta, Viene Ya&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--5" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/miel-san-marcos/rey-vencedor-fiesta-viene-ya" hreflang="es"&gt;Rey Vencedor, Fiesta, Viene Ya&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--4" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--2" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--2" class="views-field views-field-field-tono"&gt;          &lt;/td&gt;
@@ -280,7 +280,7 @@ Grande es&lt;/p&gt;&lt;/div&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;6          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--5" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/oasis-ministry/si-tu-presencia-conmigo-no-va" hreflang="es"&gt;Si tu presencia conmigo no va&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--5" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/oasis-ministry/si-tu-presencia-conmigo-no-va" hreflang="es"&gt;Si tu presencia conmigo no va&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--4" class="views-field views-field-field-tipo"&gt;Lenta          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--2" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--2" class="views-field views-field-field-tono"&gt;D          &lt;/td&gt;
@@ -359,7 +359,7 @@ Aaron: Los muros,cuan grande...&lt;/p&gt;&lt;/div&gt;
       &lt;div class="block__content"&gt;
       
       &lt;div class="field field--name-field-canciones field--type-entity-reference field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-b2478cd5fd045df9fefc26bc1103f60cd837e731375f479fdd767d1d855785cc"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-4f9781013faafc607e9546539268f90197fee96c8f4b7a3cff94e92afa96faa8"&gt;
   
     
       
@@ -379,7 +379,7 @@ Aaron: Los muros,cuan grande...&lt;/p&gt;&lt;/div&gt;
     &lt;tbody&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;1          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--6" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/marco-barrientos/ven-es-hora-de-adorarle" hreflang="es"&gt;Ven, Es Hora de Adorarle&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--6" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/marco-barrientos/ven-es-hora-de-adorarle" hreflang="es"&gt;Ven, Es Hora de Adorarle&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--5" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--3" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--3" class="views-field views-field-field-tono"&gt;E          &lt;/td&gt;
@@ -388,7 +388,7 @@ Aaron: Los muros,cuan grande...&lt;/p&gt;&lt;/div&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;2          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--6" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/miel-san-marcos/los-muros-caeran" hreflang="es"&gt;Los muros caerán&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--6" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/miel-san-marcos/los-muros-caeran" hreflang="es"&gt;Los muros caerán&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--5" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--3" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--3" class="views-field views-field-field-tono"&gt;Cm          &lt;/td&gt;
@@ -397,7 +397,7 @@ Aaron: Los muros,cuan grande...&lt;/p&gt;&lt;/div&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;3          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--6" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/marco-barrientos/de-gloria-en-gloria" hreflang="es"&gt;De gloria en gloria&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--6" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/marco-barrientos/de-gloria-en-gloria" hreflang="es"&gt;De gloria en gloria&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--5" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--3" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--3" class="views-field views-field-field-tono"&gt;A#          &lt;/td&gt;
@@ -406,7 +406,7 @@ Aaron: Los muros,cuan grande...&lt;/p&gt;&lt;/div&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;4          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--6" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/ingrid-rosario/que-se-llene-tu-casa" hreflang="es"&gt;Que se llene tu casa&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--6" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/ingrid-rosario/que-se-llene-tu-casa" hreflang="es"&gt;Que se llene tu casa&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--5" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--3" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--3" class="views-field views-field-field-tono"&gt;D#          &lt;/td&gt;
@@ -415,7 +415,7 @@ Aaron: Los muros,cuan grande...&lt;/p&gt;&lt;/div&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;5          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--6" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/danilo-montero/revelacion" hreflang="es"&gt;Revelación&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--6" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/danilo-montero/revelacion" hreflang="es"&gt;Revelación&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--5" class="views-field views-field-field-tipo"&gt;Lenta          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--3" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--3" class="views-field views-field-field-tono"&gt;A          &lt;/td&gt;
@@ -424,7 +424,7 @@ Aaron: Los muros,cuan grande...&lt;/p&gt;&lt;/div&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;6          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--6" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/chris-tomlin/cuan-grande-es-dios" hreflang="es"&gt;Cuan grande es Dios&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--6" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/chris-tomlin/cuan-grande-es-dios" hreflang="es"&gt;Cuan grande es Dios&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--5" class="views-field views-field-field-tipo"&gt;Lenta          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--3" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--3" class="views-field views-field-field-tono"&gt;C#          &lt;/td&gt;
@@ -458,7 +458,7 @@ Aaron: Los muros,cuan grande...&lt;/p&gt;&lt;/div&gt;
   <description>
 &lt;span&gt;Cuan grande es Dios&lt;/span&gt;
 
-&lt;span&gt;&lt;span lang="" about="https://edysmp.github.io/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;bloodlinenic&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="https://edysmp.github.io/linajesanto/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;bloodlinenic&lt;/span&gt;&lt;/span&gt;
 
 &lt;span&gt;Sun, 09/01/2022 - 19:55&lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--50-50"&gt;
@@ -491,7 +491,7 @@ Aaron: Los muros,cuan grande...&lt;/p&gt;&lt;/div&gt;
       
   &lt;div class="field field--name-field-artista field--type-entity-reference field--label-inline clearfix"&gt;
     &lt;div class="field__label"&gt;Artista&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="https://edysmp.github.io/taxonomy/term/29" hreflang="es"&gt;Chris Tomlin&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://edysmp.github.io/linajesanto/taxonomy/term/29" hreflang="es"&gt;Chris Tomlin&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
     &lt;/div&gt;
@@ -584,7 +584,7 @@ Aaron: Los muros,cuan grande...&lt;/p&gt;&lt;/div&gt;
   <description>
 &lt;span&gt;Dios incomparable&lt;/span&gt;
 
-&lt;span&gt;&lt;span lang="" about="https://edysmp.github.io/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;bloodlinenic&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="https://edysmp.github.io/linajesanto/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;bloodlinenic&lt;/span&gt;&lt;/span&gt;
 
 &lt;span&gt;Sun, 09/01/2022 - 19:49&lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--50-50"&gt;
@@ -631,7 +631,7 @@ Aaron: Los muros,cuan grande...&lt;/p&gt;&lt;/div&gt;
       
   &lt;div class="field field--name-field-artista field--type-entity-reference field--label-inline clearfix"&gt;
     &lt;div class="field__label"&gt;Artista&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="https://edysmp.github.io/taxonomy/term/105" hreflang="es"&gt;Generación 12&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://edysmp.github.io/linajesanto/taxonomy/term/105" hreflang="es"&gt;Generación 12&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
     &lt;/div&gt;
@@ -752,7 +752,7 @@ Eli'as: 4,5&lt;/p&gt;
       &lt;div class="block__content"&gt;
       
       &lt;div class="field field--name-field-canciones field--type-entity-reference field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-4c4335f09c224c325b29be953bbf7a1c694374f8f147172b5fdd527f9bf5ab1e"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-df9de6cb076626332ba6ebb8e403a34edc75c8d94ae7d1d6731ea551f5b122ed"&gt;
   
     
       
@@ -772,7 +772,7 @@ Eli'as: 4,5&lt;/p&gt;
     &lt;tbody&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;1          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--7" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/danilo-montero/te-alabare-mi-buen-jesus" hreflang="es"&gt;Te Alabaré Mi Buen Jesús&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--7" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/danilo-montero/te-alabare-mi-buen-jesus" hreflang="es"&gt;Te Alabaré Mi Buen Jesús&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--6" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--4" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--4" class="views-field views-field-field-tono"&gt;E          &lt;/td&gt;
@@ -781,7 +781,7 @@ Eli'as: 4,5&lt;/p&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;2          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--7" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/danilo-montero/bueno-es-alabarte-senor" hreflang="es"&gt;Bueno es alabarte señor&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--7" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/danilo-montero/bueno-es-alabarte-senor" hreflang="es"&gt;Bueno es alabarte señor&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--6" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--4" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--4" class="views-field views-field-field-tono"&gt;G          &lt;/td&gt;
@@ -790,7 +790,7 @@ Eli'as: 4,5&lt;/p&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;3          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--7" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/christine-dclario/eterno" hreflang="es"&gt;Eterno&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--7" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/christine-dclario/eterno" hreflang="es"&gt;Eterno&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--6" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--4" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--4" class="views-field views-field-field-tono"&gt;D          &lt;/td&gt;
@@ -799,7 +799,7 @@ Eli'as: 4,5&lt;/p&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;4          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--7" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/art-aguilera/hay-libertad" hreflang="es"&gt;Hay libertad&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--7" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/art-aguilera/hay-libertad" hreflang="es"&gt;Hay libertad&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--6" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--4" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--4" class="views-field views-field-field-tono"&gt;Dm          &lt;/td&gt;
@@ -808,7 +808,7 @@ Eli'as: 4,5&lt;/p&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;5          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--7" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/miel-san-marcos/increible" hreflang="es"&gt;Increíble&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--7" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/miel-san-marcos/increible" hreflang="es"&gt;Increíble&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--6" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--4" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--4" class="views-field views-field-field-tono"&gt;C          &lt;/td&gt;
@@ -817,7 +817,7 @@ Eli'as: 4,5&lt;/p&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;6          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--7" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/hillsong-worship/rey-de-reyes" hreflang="es"&gt;Rey de Reyes&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--7" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/hillsong-worship/rey-de-reyes" hreflang="es"&gt;Rey de Reyes&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--6" class="views-field views-field-field-tipo"&gt;Lenta          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--4" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--4" class="views-field views-field-field-tono"&gt;D          &lt;/td&gt;
@@ -826,7 +826,7 @@ Eli'as: 4,5&lt;/p&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;7          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--7" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/un-corazon/jesucristo-basta" hreflang="es"&gt;Jesucristo Basta&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--7" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/un-corazon/jesucristo-basta" hreflang="es"&gt;Jesucristo Basta&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--6" class="views-field views-field-field-tipo"&gt;Lenta          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--4" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--4" class="views-field views-field-field-tono"&gt;G#          &lt;/td&gt;
@@ -860,7 +860,7 @@ Eli'as: 4,5&lt;/p&gt;
   <description>
 &lt;span&gt;Thursday, December 30 del 2021&lt;/span&gt;
 
-&lt;span&gt;&lt;span lang="" about="https://edysmp.github.io/user/24" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Edys Meza&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="https://edysmp.github.io/linajesanto/user/24" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Edys Meza&lt;/span&gt;&lt;/span&gt;
 
 &lt;span&gt;Mon, 27/12/2021 - 19:47&lt;/span&gt;
   &lt;div class="layout layout--onecol"&gt;
@@ -892,7 +892,7 @@ GE: Edys&lt;/p&gt;
 
 &lt;p&gt;Invitado especial: Marcio;Piano y Voz.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt="agenda" data-entity-type="file" data-entity-uuid="0f7bbd05-ae88-449c-bbe7-928f87c0ec2f" src="https://edysmp.github.io/sites/default/files/inline-images/vigilia%20agenda-2.png" width="425" height="518" loading="lazy" /&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img alt="Image removed." data-entity-type="file" data-entity-uuid="0f7bbd05-ae88-449c-bbe7-928f87c0ec2f" src="https://edysmp.github.io/linajesanto/sites/default/files/inline-images/vigilia%20agenda-2.png" title="This image has been removed. For security reasons, only images from the local domain are allowed." height="16" width="16" class="filter-image-invalid" loading="lazy" /&gt;&lt;/p&gt;&lt;/div&gt;
       
     &lt;/div&gt;
   &lt;/div&gt;
@@ -910,7 +910,7 @@ GE: Edys&lt;/p&gt;
   <description>
 &lt;span&gt;Le llaman guerrero&lt;/span&gt;
 
-&lt;span&gt;&lt;span lang="" about="https://edysmp.github.io/user/24" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Edys Meza&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="https://edysmp.github.io/linajesanto/user/24" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Edys Meza&lt;/span&gt;&lt;/span&gt;
 
 &lt;span&gt;Sun, 19/12/2021 - 16:23&lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--50-50"&gt;
@@ -943,7 +943,7 @@ GE: Edys&lt;/p&gt;
       
   &lt;div class="field field--name-field-artista field--type-entity-reference field--label-inline clearfix"&gt;
     &lt;div class="field__label"&gt;Artista&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="https://edysmp.github.io/taxonomy/term/85" hreflang="es"&gt;Juan Carlos Alvarado&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://edysmp.github.io/linajesanto/taxonomy/term/85" hreflang="es"&gt;Juan Carlos Alvarado&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
     &lt;/div&gt;
@@ -1025,7 +1025,7 @@ GE: Edys&lt;/p&gt;
   <description>
 &lt;span&gt;Por siempre&lt;/span&gt;
 
-&lt;span&gt;&lt;span lang="" about="https://edysmp.github.io/user/24" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Edys Meza&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="https://edysmp.github.io/linajesanto/user/24" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Edys Meza&lt;/span&gt;&lt;/span&gt;
 
 &lt;span&gt;Sun, 19/12/2021 - 16:12&lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--50-50"&gt;
@@ -1058,7 +1058,7 @@ GE: Edys&lt;/p&gt;
       
   &lt;div class="field field--name-field-artista field--type-entity-reference field--label-inline clearfix"&gt;
     &lt;div class="field__label"&gt;Artista&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;a href="https://edysmp.github.io/propuestas" hreflang="es"&gt;Evan Craft&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://edysmp.github.io/linajesanto/propuestas" hreflang="es"&gt;Evan Craft&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
 
     &lt;/div&gt;
@@ -1186,7 +1186,7 @@ Precioso Jesús&lt;/p&gt;
       &lt;div class="block__content"&gt;
       
       &lt;div class="field field--name-field-canciones field--type-entity-reference field--label-hidden field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-22c095ab6713f7ba48fbf1856fbf5c104079dc9a64a927039881892a43bea646"&gt;
+              &lt;div class="field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-canciones-para-coleccion view-id-canciones_para_coleccion view-display-id-block_1 js-view-dom-id-f56b3bc70d2eaec0409c23528bf26f871638ccebadc3de67c90c468f6a52545f"&gt;
   
     
       
@@ -1206,7 +1206,7 @@ Precioso Jesús&lt;/p&gt;
     &lt;tbody&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;1          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--8" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/planetshakers/nada-es-imposible" hreflang="es"&gt;Nada es imposible&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--8" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/planetshakers/nada-es-imposible" hreflang="es"&gt;Nada es imposible&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--7" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--5" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--5" class="views-field views-field-field-tono"&gt;C          &lt;/td&gt;
@@ -1215,7 +1215,7 @@ Precioso Jesús&lt;/p&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;2          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--8" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/art-aguilera/hay-libertad" hreflang="es"&gt;Hay libertad&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--8" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/art-aguilera/hay-libertad" hreflang="es"&gt;Hay libertad&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--7" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--5" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--5" class="views-field views-field-field-tono"&gt;Dm          &lt;/td&gt;
@@ -1224,7 +1224,7 @@ Precioso Jesús&lt;/p&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;3          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--8" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/en-espiritu-y-en-verdad/te-doy-gloria" hreflang="es"&gt;Te doy gloria&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--8" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/en-espiritu-y-en-verdad/te-doy-gloria" hreflang="es"&gt;Te doy gloria&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--7" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--5" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--5" class="views-field views-field-field-tono"&gt;C          &lt;/td&gt;
@@ -1233,7 +1233,7 @@ Precioso Jesús&lt;/p&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;4          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--8" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/marco-barrientos/la-cosecha" hreflang="es"&gt;La cosecha&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--8" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/marco-barrientos/la-cosecha" hreflang="es"&gt;La cosecha&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--7" class="views-field views-field-field-tipo"&gt;Rápida          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--5" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--5" class="views-field views-field-field-tono"&gt;Am          &lt;/td&gt;
@@ -1242,7 +1242,7 @@ Precioso Jesús&lt;/p&gt;
               &lt;/tr&gt;
           &lt;tr&gt;
                                                                                         &lt;td class="views-field views-field-counter"&gt;5          &lt;/td&gt;
-                                                                                        &lt;td headers="view-title-table-column--8" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/canciones/esperanza-de-vida/precioso-jesus" hreflang="es"&gt;Precioso Jesús&lt;/a&gt;          &lt;/td&gt;
+                                                                                        &lt;td headers="view-title-table-column--8" class="views-field views-field-title"&gt;&lt;a href="https://edysmp.github.io/linajesanto/canciones/esperanza-de-vida/precioso-jesus" hreflang="es"&gt;Precioso Jesús&lt;/a&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tipo-table-column--7" class="views-field views-field-field-tipo"&gt;Lenta          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-bpm-table-column--5" class="views-field views-field-field-bpm"&gt;          &lt;/td&gt;
                                                                                         &lt;td headers="view-field-tono-table-column--5" class="views-field views-field-field-tono"&gt;C          &lt;/td&gt;
