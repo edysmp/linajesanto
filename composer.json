@@ -38,7 +38,7 @@
     "scripts": {
         "start": "drush runserver",
         "dd": "date",
-        "deploy": "drush tome:export -y && drush tome:static -y && git add . && git ci -m'Deploy latest changes' && git push"
+        "deploy": "drush tome:export -y && drush tome:static -l https://edysmp.github.io/linajesanto -y && git add . && git ci -m'Deploy latest changes' && git push"
     },
     "extra": {
         "patches": {
